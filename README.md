@@ -1,4 +1,4 @@
-## Olá, meu chamo Rafael Avila, sou um desenvolvedor Fullstack em constante aprendisado e evolução!
+## Olá, meu chamo Rafael Avila, sou um desenvolvedor Fullstack em constante aprendizado e evolução!
 
 <div align="center">
   <a href="https://github.com/aviiamelia">
